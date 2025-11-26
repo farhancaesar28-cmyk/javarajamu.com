@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Javara Jamu - Minuman Herbal Sehat</title>
+<style>
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f6fff3;}
+header { background:#2d6a4f; color:white; padding:20px; text-align:center;}
+section { padding:20px;}
+.button { background:#bc6c25; color:white; padding:12px 18px; border-radius:8px; text-decoration:none; }
+.product { border:1px solid #ddd; padding:15px; border-radius:10px; background:white; margin-bottom:15px;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Javara Jamu</h1>
+<p>Segelas Kebaikan dari Rempah Asli Indonesia</p>
+</header>
+
+<section>
+<h2>✨ Produk Kami</h2>
+
+<div class="product">
+<h3>Beras Kencur</h3>
+<p>Harga: Rp 12.000 / 250ml</p>
+<p>Manfaat: Meningkatkan stamina & menghangatkan tubuh</p>
+<a class="button" href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20pesan%20Beras%20Kencur">Pesan Sekarang</a>
+</div>
+
+<div class="product">
+<h3>Kunyit Asam</h3>
+<p>Harga: Rp 13.000 / 250ml</p>
+<p>Manfaat: Menyehatkan organ wanita dan anti radang</p>
+<a class="button" href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20pesan%20Kunyit%20Asam">Pesan Sekarang</a>
+</div>
+
+</section>
+
+<footer style="text-align:center; padding:20px; background:#2d6a4f; color:white;">
+<p>Hubungi Customer Service: 0812-3456-7890</p>
+</footer>
+
+</body>
+</html>
